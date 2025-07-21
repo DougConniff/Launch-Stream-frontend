@@ -1,6 +1,6 @@
 import React from 'react'
 import Eth from '../eth.svg'
-import Logo from '../logo.png'
+import Logo from '../LaunchStream.png'
 import {Link} from 'react-router-dom'
 
 function Header(props) {
